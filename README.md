@@ -16,3 +16,9 @@ This is a complete tic tac toe implementation, complete with computer player wri
 - [json-parser-in-typescript-very-bad-idea-please-dont-use](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use)
 - [tic-tac-toe in ts implementation](https://medium.com/@bakeds/play-tic-tac-toe-with-the-help-of-advanced-types-in-typescript-dc18858b2504) - Borrowed a lot of the ideas here!
 - [css-tic-tac-toe](https://github.com/lukebatchelor/css-tic-tac-toe) (cheeky self promotion)
+
+## Other cool links
+
+- [Typscript Handbook Advanced types](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
+- [ronami/meta-typing](https://github.com/ronami/meta-typing)
+- [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types)
